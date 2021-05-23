@@ -1,3 +1,4 @@
+## Java Program
 - Initially, I compiled Java program and I cleared lot of syntax errors such as semicolon and parentheses.
 - Next, I cleared logical errors such as addition operator performing multiplication, wrong button labels for start stop buttons.
 - Next, I cleared the bugs found in the total time spent in quiz and total count of right answers.
